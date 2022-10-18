@@ -1,4 +1,6 @@
 {
 
 	"name": "SysML Reference Architecture - AGVRA"
+	"description":"syslm model of the AGVRA standard",
+	"repoURL":"https://github.com/ealexander22/SysML-Reference-Architecture-AGVRA.git"
 }
